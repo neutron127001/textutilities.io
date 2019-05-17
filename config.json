@@ -1,0 +1,8 @@
+{
+	"params" :
+	{ "page_title" : "Render Text",
+	   "website_name" : "TextUtilities.io",
+	   "head_textarea": "Type Some Text : "
+	}
+	
+}
